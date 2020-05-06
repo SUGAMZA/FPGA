@@ -1,4 +1,5 @@
 
+//this file is for check how to use github
 
 `define SYSCLK				50000000
 `define UART_BAUD_RATE	115200
